@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Expanded RecyclerView</string>
+    <string name="Tv_sub_item">sub item</string>
+    <string name="cd_share">share</string>
+    <string name="tv_title">title</string>
+    <string name="cd_tab">cd_tab</string>
 </resources>
